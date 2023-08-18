@@ -1,0 +1,11 @@
+Recursion
+Graph Traversal
+list operations
+Graphs
+Complex user-defined algorithms
+Complex mathematical model
+Dynamic generation of objects based on complex OOP model
+Complex "user"-defined use of object oriented programming
+
+Regular expressions
+Dictionaries
